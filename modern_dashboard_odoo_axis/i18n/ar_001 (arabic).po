@@ -1,0 +1,1450 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* modern_dashboard_odoo_axis
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-26 14:35+0000\n"
+"PO-Revision-Date: 2021-11-26 14:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "10 Quotation Sent Details"
+msgstr "10 تفاصيل الاقتباس المرسلة"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_account_user
+msgid "Access Account Dashboard"
+msgstr "الوصول إلى لوحة تحكم الحساب ""
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_crm_user
+msgid "Access CRM Dashboard"
+msgstr "الوصول إلى لوحة معلومات CRM"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_inventory_user
+msgid "Access Inventory Dashboard"
+msgstr "الوصول إلى لوحة معلومات المخزون"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_pos_user
+msgid "Access POS Dashboard"
+msgstr "الوصول إلى لوحة تحكم POS"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_sale_user
+msgid "Access Sale Dashboard"
+msgstr "الوصول إلى لوحة معلومات البيع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.account_dashboard_action
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.account_dashboard_menu
+#, python-format
+msgid "Account Dashboard"
+msgstr "لوحة حساب"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Active Sessions"
+msgstr "الجلسات النشطة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Activity Type"
+msgstr "نوع النشاط"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "April"
+msgstr "أبريل"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_picking_internal_search_inherit
+msgid "Assigned"
+msgstr "مكلف"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/inventory_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Assigned Count"
+msgstr "العدد المعين"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "August"
+msgstr "شهر اغسطس"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Bottom"
+msgstr "قاع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.crm_dashboard_action
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.crm_dashboard_menu
+#, python-format
+msgid "CRM Dashboard"
+msgstr "لوحة تحكم CRM"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#, python-format
+msgid "Cancel"
+msgstr "يلغي"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/account_dashbboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_account_move_filter_inherit
+#, python-format
+msgid "Cancel Invoice"
+msgstr "إلغاء الفاتورة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Cash and Bank Balance"
+msgstr "النقد والرصيد المصرفي"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Color Palette"
+msgstr "لوحة الألوان""
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Count Wise Customer Sale Order"
+msgstr "عد أمر بيع العملاء الحكيم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_account_move_filter_inherit
+#, python-format
+msgid "Customer"
+msgstr "عميل"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/account_dashbboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Customer Payment"
+msgstr "دفع العملاء"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Customer Payment List"
+msgstr "قائمة مدفوعات العملاء"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Daily Gross\n"
+"                                    Sales"
+msgstr ""
+"الإجمالي اليومي \ n"
+"                                    مبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "December"
+msgstr "ديسمبر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Delivery Detail"
+msgstr "تفاصيل التسليم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_picking_internal_search_inherit
+#, python-format
+msgid "Delivery Order"
+msgstr "أمر التسليم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/inventory_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Delivery Orders"
+msgstr "أوامر التسليم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Employee Working\n"
+"                                Hours"
+msgstr ""
+"الموظف العامل \ n"
+"                                ساعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export"
+msgstr "يصدر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export CSV"
+msgstr "تصدير CSV"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export Chart"
+msgstr "تصدير الرسم البياني"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export Pdf"
+msgstr "تصدير ملف PDF"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export XLS"
+msgstr "تصدير XLS"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "February"
+msgstr "شهر فبراير"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#, python-format
+msgid "Fully  Invoiced"
+msgstr "مفوتر بالكامل"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Hour Today"
+msgstr "ساعة اليوم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Internal Transfer"
+msgstr "التحويل الداخلي"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.inventory_dashboard_action
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.inventory_dashboard_menu
+#, python-format
+msgid "Inventory Dashboard"
+msgstr "لوحة معلومات المخزون"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_stock_location
+msgid "Inventory Locations"
+msgstr "مواقع المخزون"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Inventory Report"
+msgstr "تقرير المخزونات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "January"
+msgstr "كانون الثاني"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_account_move
+msgid "Journal Entry"
+msgstr "قيد اليومية"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Journal List"
+msgstr "قائمة المجلة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "July"
+msgstr "تموز"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "June"
+msgstr "يونيو"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Last 30 Days"
+msgstr "آخر 30 يومًا"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Last 30 days"
+msgstr "آخر 30 يومًا"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Last Sale order a/c to customer"
+msgstr "آخر أمر بيع a / c للعميل"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_crm_lead
+msgid "Lead/Opportunity"
+msgstr "ترشيح/فرصة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#, python-format
+msgid "Loss Count"
+msgstr "عدد الخسارة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Loss List"
+msgstr "قائمة الخسارة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Loss list Customer"
+msgstr "العميل قائمة الخسائر"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+msgid "Lost"
+msgstr "ضائع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "March"
+msgstr "مارس"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "May"
+msgstr "قد"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "More Info"
+msgstr "مزيد من المعلومات"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+msgid "My Opportunities"
+msgstr "فرصي"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "My Pipeline"
+msgstr "خط الأنابيب الخاص بي"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "No Data Found"
+msgstr "لاتوجد بيانات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "November"
+msgstr "شهر نوفمبر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "October"
+msgstr "اكتوبر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/account_dashbboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_account_move_filter_inherit
+#, python-format
+msgid "Open Invoice"
+msgstr "افتح الفاتورة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Open Inwards"
+msgstr "فتح الداخل"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#, python-format
+msgid "Open Oppoertunity"
+msgstr "افتح الفرصة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+#, python-format
+msgid "Open Opportunities"
+msgstr "الفرص المفتوحة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Open Outward"
+msgstr "فتح للخارج"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Open Purchase Invoice"
+msgstr "فتح فاتورة الشراء"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Operation Type"
+msgstr "نوع العملية"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Orders"
+msgstr "الطلب #٪ s"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+#, python-format
+msgid "Overdue Opportunities"
+msgstr "الفرص المتأخرة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#, python-format
+msgid "Overdue Opportunity"
+msgstr "فرصة متأخرة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.menu_point_dashboard
+#, python-format
+msgid "POS Dashboard"
+msgstr "لوحة تحكم POS"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Partners"
+msgstr "شركاء"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Payment\n"
+"                                    By Journal"
+msgstr ""
+"الدفع \ n"
+"بالمجلة"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.tag_dashboard_id
+msgid "Point Of Sale Dashboard"
+msgstr "لوحة تحكم في نقاط البيع"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_pos_config
+msgid "Point of Sale Configuration"
+msgstr "إعدادات نقطة البيع"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_pos_order
+msgid "Point of Sale Orders"
+msgstr "أوامر نقطة البيع"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_pos_session
+msgid "Point of Sale Session"
+msgstr "جلسة نقطة البيع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/backend_dashboard_js/dashboard.js:0
+#, python-format
+msgid "Point of sale Dashboard"
+msgstr "لوحة التحكم في نقاط البيع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Price"
+msgstr "سعر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Price Wise Products"
+msgstr "المنتجات الحكيمة السعر"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model.fields,field_description:modern_dashboard_odoo_axis.field_pos_config__print_audit_report
+msgid "Print Audit Report"
+msgstr "طباعة تقرير التدقيق"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Product Moves"
+msgstr "تحركات المنتج"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Quantity"
+msgstr "كمية"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_sales_order_filter_inherit
+#, python-format
+msgid "Quotation"
+msgstr "اقتباس"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_sales_order_filter_inherit
+#, python-format
+msgid "Quotation Cancel"
+msgstr "إلغاء الاقتباس"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_sales_order_filter_inherit
+#, python-format
+msgid "Quotation Sent"
+msgstr "تم إرسال الاقتباس"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Quotations"
+msgstr "الاقتباسات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Receivable Amount"
+msgstr "المبلغ المستحق"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Recent 5 Sale Order"
+msgstr "5 أوامر بيع حديثة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Recent Customer"
+msgstr "عميل حديث"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_ir_actions_report
+msgid "Report Action"
+msgstr "إجراء التقرير"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Sale By\n"
+"                                Salesman"
+msgstr ""
+"بيع بواسطة \ n"
+"بائع"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.sale_dashboard_action
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.sale_dashboard_menu
+msgid "Sale Dashboard"
+msgstr "بيع لوحة القيادة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Sale Order Cancel"
+msgstr "إلغاء أمر البيع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: model:ir.model.fields,field_description:modern_dashboard_odoo_axis.field_pos_config__pos_dashboard
+#, python-format
+msgid "Sales Dashboard"
+msgstr "لوحة المبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_sale_order
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_sales_order_filter_inherit
+msgid "Sales Order"
+msgstr "أمر البيع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Sales Orders"
+msgstr "طلبات المبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Sales Report"
+msgstr "تقرير المبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Selling Products"
+msgstr "بيع المنتوجات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "September"
+msgstr "سبتمبر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Spending"
+msgstr "الإنفاق"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Stock Moves"
+msgstr "تحركات الأسهم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "This Month"
+msgstr "هذا الشهر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "This Week"
+msgstr "هذا الاسبوع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "This Year"
+msgstr "هذه السنة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "To Be Invoiced"
+msgstr "لتصدر بها فاتورة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#, python-format
+msgid "To be Invoiced"
+msgstr "لتصدر بها فاتورة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Today"
+msgstr "اليوم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Today Orders"
+msgstr "أوامر اليوم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Today Product Sold"
+msgstr "المنتج مباع اليوم"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model.fields,field_description:modern_dashboard_odoo_axis.field_pos_config__today_sale_report
+msgid "Today Sale Report"
+msgstr "تقرير بيع اليوم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Today Sales"
+msgstr "مبيعات اليوم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Top"
+msgstr "قمة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Top 10 Customers"
+msgstr "أفضل 10 عملاء"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Top 10 Sold Orders"
+msgstr "أعلى 10 أوامر بيعت"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Top 3 Customer with Loss count"
+msgstr "أعلى 3 عملاء مع عدد الخسائر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Top 3 Customer with won count"
+msgstr "أعلى 3 عملاء مع عدد ربح"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Top 5 Categories by\n"
+"                                Sales"
+msgstr ""
+"أهم 5 فئات حسب \ n"
+"                                مبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Top Customer"
+msgstr "أعلى Customer"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Top Items by\n"
+"                                Sales"
+msgstr ""
+"أهم العناصر حسب \ n"
+"                                مبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Top Leads/Opportunity"
+msgstr "أهم العملاء المتوقعين / الفرص"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Top Recent Customer"
+msgstr "أعلى عميل حديث"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Top Reserved Stock"
+msgstr "أعلى مخزون محجوز"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Top Sale Revenue Customer"
+msgstr "أعلى عملاء إيرادات المبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Top Sale Team"
+msgstr "أفضل فريق بيع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Top Sales Team"
+msgstr "فريق المبيعات الأعلى"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Top Selling Product"
+msgstr "المنتج الأكثر مبيعًا"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Top Staff Today"
+msgstr "كبار الموظفين اليوم"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Top Vendor"
+msgstr "أفضل بائع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Top customers"
+msgstr "كبار العملاء"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Total Expected Revenue"
+msgstr "إجمالي الإيرادات المتوقعة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Total Leads"
+msgstr "إجمالي العملاء المتوقعين"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Total Lot Serial"
+msgstr "إجمالي اللوت المسلسل"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Total Orders"
+msgstr "إجمالي الطلبات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Total Products Sold"
+msgstr "إجمالي المنتجات المباعة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Total Reordering Rules"
+msgstr "مجموع قواعد إعادة الترتيب"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Total Sales"
+msgstr "إجمالي المبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Total Won"
+msgstr "مجموع وون"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_stock_picking
+msgid "Transfer"
+msgstr "الشحنة"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_account_move_filter_inherit
+msgid "Vendor"
+msgstr "بائع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/account_dashbboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Vendor Payment"
+msgstr "دفع البائع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Vendor Payment List"
+msgstr "قائمة دفع البائع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Visity"
+msgstr "أسطوانة VCD"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_picking_internal_search_inherit
+msgid "Waiting"
+msgstr "انتظار"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/inventory_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Waiting Count"
+msgstr "في انتظار العد"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Weekly\n"
+"                                Sales Details"
+msgstr ""
+"أسبوعي \ n"
+"تفاصيل المبيعات"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Weekly Gross Sales"
+msgstr "إجمالي المبيعات الأسبوعية"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Welcome"
+msgstr "أهلا بك"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+msgid "Won"
+msgstr "وون"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#, python-format
+msgid "Won Count"
+msgstr "فاز العد"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Won List"
+msgstr "قائمة الفائزين"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Won list Customer"
+msgstr "فاز قائمة العملاء"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model.fields,field_description:modern_dashboard_odoo_axis.field_pos_config__x_report
+msgid "X-Report"
+msgstr "X- تقرير"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "cool"
+msgstr "بارد"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "select"
+msgstr "تحديد"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select Month"
+msgstr "اختر الشهر"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select Week"
+msgstr "حدد الأسبوع"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select company"
+msgstr "اختر شركة"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select option"
+msgstr "حدد الخيار"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select order"
+msgstr "اختر طلبا"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "warm"
+msgstr "دافئ"

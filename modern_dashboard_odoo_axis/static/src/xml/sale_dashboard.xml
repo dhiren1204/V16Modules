@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <t t-name="SaleDashboardView">
+        <div class="sale_dashboard">
+            <div class="container-fluid o_sale_dashboard">
+                <div class="sales-dashboard">
+                    <h4 class="text-primary text-center sales-py-5">Sales Dashboard</h4>
+                    <div class="container-fluid">
+                          <!-- top card -->
+                          <div class="row top_4_column">
+                            
+                            <div class="col-lg-3 col-md-6 col-sm-6 col-12 crm-mb-30">
+                              <div class="card h-100 border-0 quotation position-relative sales-m-t">
+                                <div class="hover-bg position-relative h-100">
+                                  <div class="card-body h-100 position-relative">
+                                    <div class="row">
+                                      <div class="col-md-4 col-4">
+                                        <div class="bg-white icon-box w-100 h-100 pt-4 text-center position-relative">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-twitch"><path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7"></path></svg>
+                                        </div>
+                                      </div>
+                                      <div class="col-md-8 col-8">
+                                      <h2 class="card-text total-quotation"></h2>
+                                        <h5 class="card-title">Quotations</h5>
+                                      </div>
+                                    </div>  
+                                  </div>
+                                  <div class="more-info-btn position-absolute">
+                                    <button class="rounded-pill btn bg-white px-3 more-quotation">More Info</button>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6 col-12 crm-mb-30">
+                              <div class="card h-100 border-0 sales-orders position-relative sales-m-t">
+                                <div class="hover-bg position-relative h-100">
+                                  <div class="card-body h-100 position-relative">
+                                    <div class="row">
+                                      <div class="col-md-4 col-4">
+                                        <div class="bg-white icon-box w-100 h-100 pt-4 text-center position-relative">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-cart report-box__icon text-theme-10"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
+                                        </div>
+                                      </div>
+                                      <div class="col-md-8 col-8">
+                                        <h2 class="card-text total-sale"></h2>
+                                        <h5 class="card-title">Sales Orders</h5>
+                                      </div>
+                                    </div>  
+                                  </div>
+                                  <div class="more-info-btn position-absolute">
+                                    <button class="rounded-pill btn bg-white px-3 more-sale-order">More Info</button>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6 col-12 crm-mb-30">
+                              <div class="card h-100 border-0 sales-partners position-relative sales-m-t">
+                                <div class="hover-bg position-relative h-100">
+                                  <div class="card-body h-100 position-relative">
+                                    <div class="row">
+                                      <div class="col-md-4 col-4">
+                                        <div class="bg-white icon-box w-100 h-100 pt-4 text-center position-relative">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-twitch"><path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7"></path></svg>
+                                        </div>
+                                      </div>
+                                      <div class="col-md-8 col-8">
+                                        <h2 class="card-text quotation-sent"></h2>
+                                        <h5 class="card-title">Quotation Sent</h5>
+                                      </div>
+                                    </div>  
+                                  </div>
+                                  <div class="more-info-btn position-absolute">
+                                    <button class="rounded-pill btn bg-white px-3 more-quotation-sent">More Info</button>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-6 col-12 crm-mb-30">
+                              <div class="card h-100 border-0 customer-cancel position-relative sales-m-t">
+                                <div class="hover-bg position-relative h-100">
+                                  <div class="card-body h-100 position-relative">
+                                    <div class="row">
+                                      <div class="col-md-4 col-4">
+                                        <div class="bg-white icon-box w-100 h-100 pt-4 text-center position-relative">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x-circle"><circle cx="12" cy="12" r="10"></circle><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line></svg>
+                                        </div>
+                                      </div>
+                                      <div class="col-md-8 col-8">
+                                        <h2 class="card-text cancel"></h2>
+                                        <h5 class="card-title">Quotation Cancel</h5>
+                                      </div>
+                                    </div>  
+                                  </div>
+                                  <div class="more-info-btn position-absolute">
+                                    <button class="rounded-pill btn bg-white px-3 more-cancel">More Info</button>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                              <div class="card h-100 border-0 customer-sales position-relative sales-m-t">
+                                <div class="hover-bg position-relative h-100">
+                                  <div class="card-body h-100 position-relative">
+                                    <div class="row">
+                                      <div class="col-md-4 col-4">
+                                        <div class="bg-white icon-box w-100 h-100 pt-4 text-center position-relative">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                                        </div>
+                                      </div>
+                                      <div class="col-md-8 col-8">
+                                        <h2 class="card-text total-customer"></h2>
+                                        <h5 class="card-title">Partners</h5>
+                                      </div>
+                                    </div>  
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                              <div class="card h-100 border-0 invoiced-card1 position-relative sales-m-t">
+                                <div class="hover-bg position-relative h-100">
+                                  <div class="card-body h-100 position-relative">
+                                    <div class="row">
+                                      <div class="col-md-4 col-4">
+                                        <div class="bg-white icon-box w-100 h-100 pt-4 text-center position-relative">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                                        </div>
+                                      </div>
+                                      <div class="col-md-8 col-8">
+                                        <h2 class="card-text count_customer"></h2>
+                                        <h5 class="card-title">Customer</h5>
+                                      </div>
+                                    </div>  
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                              <div class="card h-100 border-0 invoiced-card2 position-relative sales-m-t">
+                                <div class="hover-bg position-relative h-100">
+                                  <div class="card-body h-100 position-relative">
+                                    <div class="row">
+                                      <div class="col-md-4 col-4">
+                                        <div class="bg-white icon-box w-100 h-100 pt-4 text-center position-relative">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                                        </div>
+                                      </div>
+                                      <div class="col-md-8 col-8">
+                                        <h2 class="card-text to-be_invoice"></h2>
+                                        <h5 class="card-title">To Be Invoiced</h5>
+                                      </div>
+                                    </div>  
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                           <!-- botoom card -->
+                          <div class="row table-cards mb-20">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                              <div class="box box-warning bg-white">
+                                  <div class="p-3-crm d-flex flex-row align-items-center justify-content-between bg-gradient-crm">
+                                  <div class="d-flex align-items-center w-50">
+                                   <h3 class="header-three-m">Top 10 Sold Orders</h3>
+                                  </div>
+                                  <div class="d-flex">
+                                    <select id="top_sale_order" class="deliver-account">
+                                      <option value="all"> select </option>
+                                      <option value="today_sales">Today</option>
+                                      <option value="monthly_sales">This Month</option>
+                                      <option value="year_sales">This Year</option>
+                                  </select>
+                                      <!-- dots -->
+                                      <div class="three-dots">
+                                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                        <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                          <div class="dots-menu">
+                                              <div class="dots-menu-header">
+                                                  <span>Export</span>
+                                              </div>
+                                              <div class="dots-menu-item" data-format="chart_xls">
+                                                  <i class="fa fa-file-excel-o"></i>
+                                                  <span id="exportxls">Export XLS</span>
+                                              </div>
+                                              <div class="dots-menu-item" data-format="chart_csv">
+                                                  <i class="fa fa-file-code-o"></i>
+                                                  <span id="exportcsv">Export CSV</span>
+                                              </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                                </div>
+                                  <!-- <select id="top_sale_order">
+                                      <option value="all">  select  </option>
+                                      <option value="today_sales">Today</option>
+                                      <option value="monthly_sales">This Month</option>
+                                      <option value="year_sales">This Year</option>
+                                  </select> -->
+                                  <div class="box-tools top_sold_order header-box-p">
+                                    <div class="table-responsive">
+                                      <table class="top-sold table no-margin" id="top_sold">
+                                      </table>
+                                    </div>
+                                  </div>
+                                  <div class="sales-btn">
+                                 <!--  <button id="exportcsv" class="btn btn-primary">
+                                     <i class="fa fa-file" style="color="></i> Export CSV</button>
+                                  <button id="exportxls" class="btn btn-primary">Export XLS</button> -->
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                              <div class="box box-warning bg-white">
+                                  <div class="p-3-crm d-flex flex-row align-items-center justify-content-between bg-gradient-crm">
+                                  <div class="d-flex align-items-center w-50">
+                                   <h3 class="header-three-m">10 Quotation Sent Details</h3>
+                                  </div>
+                                  <div class="d-flex">
+                                    <select id="quotation_sale" class="deliver-account">
+                                      <option value="all"> select </option>
+                                      <option value="today_sales">Today</option>
+                                      <option value="monthly_sales">This Month</option>
+                                      <option value="year_sales">This Year</option>
+                                  </select>
+                                      <!-- dots -->
+                                      <div class="three-dots">
+                                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                        <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                          <div class="dots-menu">
+                                              <div class="dots-menu-header">
+                                                  <span>Export</span>
+                                              </div>
+                                              <div class="dots-menu-item" data-format="chart_xls">
+                                                  <i class="fa fa-file-excel-o"></i>
+                                                  <span id="quotationxls">Export XLS</span>
+                                              </div>
+                                              <div class="dots-menu-item" data-format="chart_csv">
+                                                  <i class="fa fa-file-code-o"></i>
+                                                  <span id="quotationcsv">Export CSV</span>
+                                              </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                                </div>
+                                 <!--  <select id="quotation_sale">
+                                      <option value="all">  select  </option>
+                                      <option value="today_sales">Today</option>
+                                      <option value="monthly_sales">This Month</option>
+                                      <option value="year_sales">This Year</option>
+                                  </select> -->
+                                  <div class="box-tools order header-box-p">
+                                    <div class="table-responsive">
+                                      <table class="sale table no-margin" id="quotationtable">
+                                        </table>
+                                    </div>
+                                  </div>
+                                  <div class="sales-btn">
+                                 <!--  <button id="quotationcsv" class="btn btn-primary">
+                                     <i class="fa fa-file" style="color="></i>Export CSV</button>
+                                  <button id="quotationxls" class="btn btn-primary">Export XLS</button> -->
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                              <div class="box box-warning bg-white">
+                                  <div class="p-3-crm d-flex flex-row align-items-center justify-content-between bg-gradient-crm">
+                                  <div class="d-flex align-items-center w-50">
+                                   <h3 class="header-three-m">Sale Order Cancel</h3>
+                                  </div>
+                                  <div class="d-flex">
+                                    <select id="cancel_sale" class="deliver-account">
+                                      <option value="all"> select </option>
+                                      <option value="today_sales">Today</option>
+                                      <option value="monthly_sales">This Month</option>
+                                      <option value="year_sales">This Year</option>
+                                  </select>
+                                      <!-- dots -->
+                                      <div class="three-dots">
+                                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                        <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                          <div class="dots-menu">
+                                              <div class="dots-menu-header">
+                                                  <span>Export</span>
+                                              </div>
+                                              <div class="dots-menu-item" data-format="chart_xls">
+                                                  <i class="fa fa-file-excel-o"></i>
+                                                  <span id="cancelsalexls">Export XLS</span>
+                                              </div>
+                                              <div class="dots-menu-item" data-format="chart_csv">
+                                                  <i class="fa fa-file-code-o"></i>
+                                                  <span id="cancelsalecsv">Export CSV</span>
+                                              </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                                </div>
+                                  <!-- <select id="cancel_sale">
+                                      <option value="all">  select  </option>
+                                      <option value="today_sales">Today</option>
+                                      <option value="monthly_sales">This Month</option>
+                                      <option value="year_sales">This Year</option>
+                                  </select> -->
+                                  <div class="box-tools sale_order_cancel header-box-p">
+                                    <div class="table-responsive">
+                                      <table class="sale-cancel table no-margin" id="cancelsaletable">
+                                        </table>
+                                    </div>
+                                  </div>
+                                  <div class="sales-btn-d">
+                                 <!--  <button id="cancelsalecsv" class="btn btn-primary" ><i class="fa fa-file" style="color="></i>Export CSV</button>
+                                  <button id="cancelsalexls" class="btn btn-primary"><i class="fa fa-download" style="color="></i>Export XLS</button> -->
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                              <div class="box box-warning bg-white">
+                                  <div class="p-3-crm d-flex flex-row align-items-center justify-content-between bg-gradient-crm">
+                                  <div class="d-flex align-items-center w-50">
+                                   <h3 class="header-three-m">Top customers</h3>
+                                  </div>
+                                  <div class="d-flex">
+                                      <!-- dots -->
+                                      <div class="three-dots">
+                                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                        <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                          <div class="dots-menu">
+                                              <div class="dots-menu-header">
+                                                  <span>Export</span>
+                                              </div>
+                                              <div class="dots-menu-item" data-format="chart_xls">
+                                                  <i class="fa fa-file-excel-o"></i>
+                                                  <span id="customerxls">Export XLS</span>
+                                              </div>
+                                              <div class="dots-menu-item" data-format="chart_csv">
+                                                  <i class="fa fa-file-code-o"></i>
+                                                  <span id="customercsv">Export CSV</span>
+                                              </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                                </div>
+                                  <div class="box-tools customer-count header-box-p">
+                                    <div class="table-responsive">
+                                      <table class="customer table no-margin" id="customertable">
+                                        </table>
+                                    </div>
+                                  </div>
+                                  <div class="sales-btn">
+                                  <!--  <button id="customercsv" class="btn btn-primary" ><i class="fa fa-file" style="color="></i>Export CSV</button>
+                                  <button id="customerxls" class="btn btn-primary">Export XLS</button> -->
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 col-r">
+                               <div class="card-body high_price">
+                                  <div class="panel">
+                                      <div class="p-3-crm d-flex flex-row align-items-center justify-content-between">
+                                          <div class="d-flex align-items-center w-50">
+                                          <h3 class="header-three-m header-color-b">Last Sale order a/c to customer</h3>
+                                          </div>
+                                          <div class="d-flex">
+                                            <select id="sales_filter" class="deliver-account">
+                                              <option value="all"> select </option>
+                                              <option value="today_sales">Today</option>
+                                              <option value="monthly_sales">This Month</option>
+                                              <option value="year_sales">This Year</option>
+                                          </select>
+                                            <div id="color_filter1" class="color-opetion-box">
+                                              <button title="Color Palette" data-toggle="dropdown" class="btn color-btn-opetion btn-m-a" type="button" aria-expanded="false">
+                                                  <i class="fa fa-paint-brush"></i>
+                                              </button>
+                                              <ul role="menu" class="dropdown-menu dropdown-menu-right" data-chart-type="bar" data-chart-family="square" x-placement="bottom-end">
+                                                <li class="color-li-cool">
+                                                  <div class="chat-icon-color">
+                                                  <i class="fa fa-snowflake-o"></i>
+                                                    <span value="cool" class="cool color-opetion" data-chart-color="cool">
+                                                        cool
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                                <li class="color-li-warm">
+                                                  <div class="chat-icon-color">
+                                                    <i class="fa fa-fire"></i>
+                                                    <span value="warm" class="warm color-opetion" data-chart-color="warm">
+                                                        warm
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                              </ul>
+                                          </div>
+                                          <div class="three-dots">
+                                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                            <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                              <div class="dots-menu">
+                                                  <div class="dots-menu-header">
+                                                      <span>Export</span>
+                                                  </div>
+                                                  <div class="dots-menu-item" data-format="chart_csv">
+                                                          <i class="fa fa-file-code-o"></i>
+                                                          <span id="downloadCSV">Export CSV</span>
+                                                      </div>
+                                                  <div class="dots-menu-item">
+                                                    <i class="fa fa-file-pdf-o"></i>
+                                                    <span id="last_sale_order_pdf">Export Pdf</span>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <!-- <select id="color_filter1">
+                                        <option value="cool">Cool</option>
+                                        <option value="warm">warm</option>
+                                      </select> -->
+                                      <!-- <select id="sales_filter" style="float: right;width: 19%;">
+                                          <option value="all">select </option>
+                                          <option value="today_sales">Today</option>
+                                          <option value="monthly_sales">This Month</option>
+                                          <option value="year_sales">This Year</option>
+                                      </select> -->
+                                      <div class="panel-body">
+                                            <canvas id="highprice" class="header-box-p" width="500px" height="400px"/>
+                                   <!--  <button id="downloadCSV" class="btn btn-primary mt-4"> <i class="fa fa-file" style="color="></i> Export CSV</button>
+                                    <button id="last_sale_order_pdf" class="btn btn-primary mt-4"> <i class="fa fa-download" style="color="></i>
+                                              Export Pdf
+                                          </button> -->
+                                      </div>
+                                  </div>
+                              </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="card-body recent_customer">
+                                      <div class="panel">
+                                          <div class="p-3-crm d-flex flex-row align-items-center justify-content-between">
+                                          <div class="d-flex align-items-center w-50">
+                                          <h3 class="header-three-m header-color-b">Recent Customer</h3>
+                                          </div>
+                                          <div class="d-flex">
+                                            <div id="color_filter" class="color-opetion-box">
+                                              <button title="Color Palette" data-toggle="dropdown" class="btn color-btn-opetion btn-m-a" type="button" aria-expanded="false">
+                                                  <i class="fa fa-paint-brush"></i>
+                                              </button>
+                                              <ul role="menu" class="dropdown-menu dropdown-menu-right" data-chart-type="bar" data-chart-family="square" x-placement="bottom-end">
+                                                <li class="color-li-cool">
+                                                  <div class="chat-icon-color">
+                                                  <i class="fa fa-snowflake-o"></i>
+                                                    <span value="cool" class="cool color-opetion" data-chart-color="cool">
+                                                        cool
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                                <li class="color-li-warm">
+                                                  <div class="chat-icon-color">
+                                                    <i class="fa fa-fire"></i>
+                                                    <span value="warm" class="warm color-opetion" data-chart-color="warm">
+                                                        warm
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                              </ul>
+                                          </div>
+                                          <div class="three-dots">
+                                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                            <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                              <div class="dots-menu">
+                                                  <div class="dots-menu-header">
+                                                      <span>Export</span>
+                                                  </div>
+                                                  <div class="dots-menu-item">
+                                                    <i class="fa fa-file-pdf-o"></i>
+                                                    <span id="top_recent_customer_pdf">Export Pdf</span>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                          <!-- <select id="color_filter">
+                                            <option value="cool">Cool</option>
+                                            <option value="warm">warm</option>
+                                            </select> -->
+                                          
+                                          <div class="panel-body">
+                                                <canvas id="top_recent_customer" class="header-box-p" width="500px" height="425px"/>
+                                                <!-- <button id="top_recent_customer_pdf" class="btn btn-primary mt-4"
+                                                  data-placement="bottom" title="Export Pdf Pdf!"> <i class="fa fa-download" style="color="></i>
+                                                  Export Pdf
+                                              </button> -->
+                                          </div>
+                                      </div>
+                                  </div>
+                                </div>    
+                          </div>   
+      
+
+                      <div class="row mb-30">
+                          <div class="col-lg-6 col-md-6 col-sm-12 col-12 col-r">
+                            <div class="card-body count_wise">
+                                <div class="panel">
+                                     <div class="p-3-crm d-flex flex-row align-items-center justify-content-between">
+                                          <div class="d-flex align-items-center w-50">
+                                          <h3 class="header-three-m header-color-b">Count Wise Customer Sale Order</h3>
+                                          </div>
+                                          <div class="d-flex">
+                                            <div id="color_filter2" class="color-opetion-box">
+                                              <button title="Color Palette" data-toggle="dropdown" class="btn color-btn-opetion btn-m-a" type="button" aria-expanded="false">
+                                                  <i class="fa fa-paint-brush"></i>
+                                              </button>
+                                              <ul role="menu" class="dropdown-menu dropdown-menu-right" data-chart-type="bar" data-chart-family="square" x-placement="bottom-end">
+                                                <li class="color-li-cool">
+                                                  <div class="chat-icon-color">
+                                                  <i class="fa fa-snowflake-o"></i>
+                                                    <span value="cool" class="cool color-opetion" data-chart-color="cool">
+                                                        cool
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                                <li class="color-li-warm">
+                                                  <div class="chat-icon-color">
+                                                    <i class="fa fa-fire"></i>
+                                                    <span value="warm" class="warm color-opetion" data-chart-color="warm">
+                                                        warm
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                              </ul>
+                                          </div>
+                                          <div class="three-dots">
+                                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                            <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                              <div class="dots-menu">
+                                                  <div class="dots-menu-header">
+                                                      <span>Export</span>
+                                                  </div>
+                                                   <div class="dots-menu-item" data-format="chart_csv">
+                                                        <i class="fa fa-file-code-o"></i>
+                                                        <span id="count_customer_csv">Export CSV</span>
+                                                    </div>
+                                                  <div class="dots-menu-item">
+                                                    <i class="fa fa-file-pdf-o"></i>
+                                                    <span id="count_wise_customer_pdf">Export Pdf</span>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                 <!--   <select id="color_filter2">
+                                      <option value="cool">Cool</option>
+                                      <option value="warm">warm</option>
+                                      </select> -->
+                                    <div class="panel-body">
+                                          <canvas id="Chart" class="header-box-p" width="500px" height="400px"/>
+                                    </div>
+                                   <!--  <button id="count_customer_csv" class="btn btn-primary mt-4"> <i class="fa fa-file" style="color="></i> Export CSV</button>
+                                     <button id="count_wise_customer_pdf" class="btn btn-primary mt-4"
+                                            data-placement="bottom" title="Export Pdf Pdf!"> <i class="fa fa-download" style="color="></i>
+                                            Export Pdf
+                                        </button> -->
+                                </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                            <div class="card-body price_product">
+                                <div class="panel">
+                                    <div class="p-3-crm d-flex flex-row align-items-center justify-content-between">
+                                          <div class="d-flex align-items-center w-50">
+                                          <h3 class="header-three-m header-color-b">Price Wise Products</h3>
+                                          </div>
+                                          <div class="d-flex">
+                                            <div id="color_filter3" class="color-opetion-box">
+                                              <button title="Color Palette" data-toggle="dropdown" class="btn color-btn-opetion btn-m-a" type="button" aria-expanded="false">
+                                                  <i class="fa fa-paint-brush"></i>
+                                              </button>
+                                              <ul role="menu" class="dropdown-menu dropdown-menu-right" data-chart-type="bar" data-chart-family="square" x-placement="bottom-end">
+                                                <li class="color-li-cool">
+                                                  <div class="chat-icon-color">
+                                                  <i class="fa fa-snowflake-o"></i>
+                                                    <span value="cool" class="cool color-opetion" data-chart-color="cool">
+                                                        cool
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                                <li class="color-li-warm">
+                                                  <div class="chat-icon-color">
+                                                    <i class="fa fa-fire"></i>
+                                                    <span value="warm" class="warm color-opetion" data-chart-color="warm">
+                                                        warm
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                              </ul>
+                                          </div>
+                                          <div class="three-dots">
+                                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                            <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                              <div class="dots-menu">
+                                                  <div class="dots-menu-header">
+                                                      <span>Export</span>
+                                                  </div>
+                                                  <div class="dots-menu-item">
+                                                    <i class="fa fa-file-pdf-o"></i>
+                                                    <span id="product_price_pdf">Export Pdf</span>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    <!-- <select id="color_filter3">
+                                      <option value="cool">Cool</option>
+                                      <option value="warm">warm</option>
+                                      </select> -->
+                                    <div class="panel-body">
+                                          <canvas id="sale_order_generated" class="header-box-p" width="500px" height="400px"/>
+                                          <!-- <button id="product_price_pdf" class="btn btn-primary mt-4"
+                                            data-placement="bottom" title="Export Pdf Pdf!"> <i class="fa fa-download" style="color="></i>
+                                            Export Pdf
+                                        </button> -->
+                                    </div>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+
+                      <div class="row mb-30">
+                          <div class="col-lg-6 col-md-6 col-sm-12 col-12 col-r">
+                            <div class="card-body sale_team">
+                                <div class="panel">
+                                    <div class="p-3-crm d-flex flex-row align-items-center justify-content-between">
+                                          <div class="d-flex align-items-center w-50">
+                                          <h3 class="header-three-m header-color-b">Top Sales Team</h3>
+                                          </div>
+                                          <div class="d-flex">
+                                            <div id="color_filter4" class="color-opetion-box">
+                                              <button title="Color Palette" data-toggle="dropdown" class="btn color-btn-opetion btn-m-a" type="button" aria-expanded="false">
+                                                  <i class="fa fa-paint-brush"></i>
+                                              </button>
+                                              <ul role="menu" class="dropdown-menu dropdown-menu-right" data-chart-type="bar" data-chart-family="square" x-placement="bottom-end">
+                                                <li class="color-li-cool">
+                                                  <div class="chat-icon-color">
+                                                  <i class="fa fa-snowflake-o"></i>
+                                                    <span value="cool" class="cool color-opetion" data-chart-color="cool">
+                                                        cool
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                                <li class="color-li-warm">
+                                                  <div class="chat-icon-color">
+                                                    <i class="fa fa-fire"></i>
+                                                    <span value="warm" class="warm color-opetion" data-chart-color="warm">
+                                                        warm
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                              </ul>
+                                          </div>
+                                          <div class="three-dots">
+                                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                            <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                              <div class="dots-menu">
+                                                  <div class="dots-menu-header">
+                                                      <span>Export</span>
+                                                  </div>
+                                                  <div class="dots-menu-item">
+                                                    <i class="fa fa-file-pdf-o"></i>
+                                                    <span id="sale_team_report_pdf">Export Pdf</span>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  <!--  <select id="color_filter4">
+                                      <option value="cool">Cool</option>
+                                      <option value="warm">warm</option>
+                                      </select> -->
+                                    <div class="panel-body">
+                                          <canvas id="sale_team_data" class="header-box-p" width="1000px" height="600px"/>
+                                          <!--  <button id="sale_team_report_pdf" class="btn btn-primary mt-4"
+                                            data-placement="bottom" title="Export Pdf Pdf!"> <i class="fa fa-download" style="color="></i>
+                                            Export Pdf
+                                        </button> -->
+                                    </div>
+                                </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                            <div class="card-body rent_order">
+                                <div class="panel">
+                                    <div class="p-3-crm d-flex flex-row align-items-center justify-content-between">
+                                          <div class="d-flex align-items-center w-50">
+                                          <h3 class="header-three-m header-color-b">Recent 5 Sale Order</h3>
+                                          </div>
+                                          <div class="d-flex">
+                                            <div id="color_filter5" class="color-opetion-box">
+                                              <button title="Color Palette" data-toggle="dropdown" class="btn color-btn-opetion btn-m-a" type="button" aria-expanded="false">
+                                                  <i class="fa fa-paint-brush"></i>
+                                              </button>
+                                              <ul role="menu" class="dropdown-menu dropdown-menu-right" data-chart-type="bar" data-chart-family="square" x-placement="bottom-end">
+                                                <li class="color-li-cool">
+                                                  <div class="chat-icon-color">
+                                                  <i class="fa fa-snowflake-o"></i>
+                                                    <span value="cool" class="cool color-opetion" data-chart-color="cool">
+                                                        cool
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                                <li class="color-li-warm">
+                                                  <div class="chat-icon-color">
+                                                    <i class="fa fa-fire"></i>
+                                                    <span value="warm" class="warm color-opetion" data-chart-color="warm">
+                                                        warm
+                                                    </span>
+                                                  </div>
+                                                </li>
+                                              </ul>
+                                          </div>
+                                          <div class="three-dots">
+                                            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                                 <i class="fa fa-ellipsis-v"></i>
+                                              </button>
+                                            <div role="menu" class="dropdown-menu dropdown-menu-right" x-placement="bottom-end">
+                                              <div class="dots-menu">
+                                                  <div class="dots-menu-header">
+                                                      <span>Export</span>
+                                                  </div>
+                                                  <div class="dots-menu-item">
+                                                    <i class="fa fa-file-pdf-o"></i>
+                                                    <span id="sale_order_report_pdf">Export Pdf</span>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    <!-- <select id="color_filter5">
+                                        <option value="cool">Cool</option>
+                                        <option value="warm">warm</option>
+                                        </select> -->
+                                    <div class="panel-body">
+                                          <canvas id="sale_order_data" class="header-box-p" width="1000px" height="600px"/>
+                                           <!-- <button id="sale_order_report_pdf" class="btn btn-primary mt-4"
+                                            data-placement="bottom" title="Export Pdf Pdf!"> <i class="fa fa-download" style="color="></i>
+                                            Export Pdf
+                                        </button>
+ -->
+                                    </div>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </t>
+</templates>

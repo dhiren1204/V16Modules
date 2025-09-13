@@ -1,0 +1,22 @@
+<odoo>
+    <data>
+        <record model="ir.ui.view" id="view_users_form_inherit">
+            <field name="name">res.users.inherited</field>
+            <field name="model">res.users</field>
+            <field name="inherit_id" ref="base.view_users_form"/>
+            <field name="arch" type="xml">
+                 <xpath expr="//page[@name='access_rights']" position="after">
+                    <page string="Access Dashboard">
+                        <group>
+                            <field name="access_sale_dashboard"/>
+                            <field name="access_crm_dashboard"/>
+                            <field name="access_inventory_dashboard"/>
+                            <field name="access_account_dashboard"/>   
+                        </group>
+                    </page>
+                </xpath>       
+            </field>                               
+        </record>
+    </data>
+</odoo>       
+ 

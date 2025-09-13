@@ -1,0 +1,1450 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* modern_dashboard_odoo_axis
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-26 14:37+0000\n"
+"PO-Revision-Date: 2021-11-26 14:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "10 Quotation Sent Details"
+msgstr "10 Offerte verzonden details"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_account_user
+msgid "Access Account Dashboard"
+msgstr "Toegang tot accountdashboard"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_crm_user
+msgid "Access CRM Dashboard"
+msgstr "Toegang tot CRM-dashboard"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_inventory_user
+msgid "Access Inventory Dashboard"
+msgstr "Toegang tot het inventarisdashboard"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_pos_user
+msgid "Access POS Dashboard"
+msgstr "Toegang tot POS-dashboard"
+
+#. module: modern_dashboard_odoo_axis
+#: model:res.groups,name:modern_dashboard_odoo_axis.group_sale_user
+msgid "Access Sale Dashboard"
+msgstr "Toegang tot verkoopdashboard"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.account_dashboard_action
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.account_dashboard_menu
+#, python-format
+msgid "Account Dashboard"
+msgstr "account Dashboard"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Active Sessions"
+msgstr "actieve sessies"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Activity Type"
+msgstr "Activiteitstype"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "April"
+msgstr "april"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_picking_internal_search_inherit
+msgid "Assigned"
+msgstr "Toegewezen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/inventory_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Assigned Count"
+msgstr "Toegewezen telling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "August"
+msgstr "augustus"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Bottom"
+msgstr "Onderkant"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.crm_dashboard_action
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.crm_dashboard_menu
+#, python-format
+msgid "CRM Dashboard"
+msgstr "CRM Dashboard"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#, python-format
+msgid "Cancel"
+msgstr "Annuleren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/account_dashbboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_account_move_filter_inherit
+#, python-format
+msgid "Cancel Invoice"
+msgstr "Factuur annuleren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Cash and Bank Balance"
+msgstr "Kas- en banksaldo"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Color Palette"
+msgstr "Kleurenpalet"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Count Wise Customer Sale Order"
+msgstr "Wijs tellen Klant Verkoop Bestelling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_account_move_filter_inherit
+#, python-format
+msgid "Customer"
+msgstr "Klant"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/account_dashbboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Customer Payment"
+msgstr "Klantbetaling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Customer Payment List"
+msgstr "Klantbetalingslijst"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Daily Gross\n"
+"                                    Sales"
+msgstr ""
+"Dagelijks bruto\n"
+"                                    Verkoop"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "December"
+msgstr "december"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Delivery Detail"
+msgstr "Leveringsdetail"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_picking_internal_search_inherit
+#, python-format
+msgid "Delivery Order"
+msgstr "Leveringsopdracht"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/inventory_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Delivery Orders"
+msgstr "Leveringsbestellingen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Employee Working\n"
+"                                Hours"
+msgstr ""
+"Werknemer aan het werk\n"
+"Uren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export"
+msgstr "Exporteren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export CSV"
+msgstr "CSV exporteren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export Chart"
+msgstr "Grafiek exporteren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export Pdf"
+msgstr "Pdf exporteren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Export XLS"
+msgstr "XLS exporteren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "February"
+msgstr "februari"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#, python-format
+msgid "Fully  Invoiced"
+msgstr "Volledig gefactureerd"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Hour Today"
+msgstr "uur vandaag"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Internal Transfer"
+msgstr "Interne overplaatsing"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.inventory_dashboard_action
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.inventory_dashboard_menu
+#, python-format
+msgid "Inventory Dashboard"
+msgstr "Voorraaddashboard"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_stock_location
+msgid "Inventory Locations"
+msgstr "Voorraadlocaties"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Inventory Report"
+msgstr "Inventarisatierapport"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "January"
+msgstr "Januari"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_account_move
+msgid "Journal Entry"
+msgstr "Boeking"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Journal List"
+msgstr "Journaallijst"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "July"
+msgstr "juli-"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "June"
+msgstr "juni-"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Last 30 Days"
+msgstr "Laatste 30 dagen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Last 30 days"
+msgstr "Laatste 30 dagen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Last Sale order a/c to customer"
+msgstr "Laatste verkoop bestelling a/c aan klant"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_crm_lead
+msgid "Lead/Opportunity"
+msgstr "Lead/Verkoopkans"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#, python-format
+msgid "Loss Count"
+msgstr "Verliestelling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Loss List"
+msgstr "Verlieslijst"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Loss list Customer"
+msgstr "Verlieslijst Klant"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+msgid "Lost"
+msgstr "Verloren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "March"
+msgstr "maart"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "May"
+msgstr "Kunnen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "More Info"
+msgstr "Meer informatie"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+msgid "My Opportunities"
+msgstr ""
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "My Pipeline"
+msgstr "Mijn pijplijn"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "No Data Found"
+msgstr "Geen data gevonden"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "November"
+msgstr "november"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "October"
+msgstr "oktober"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/account_dashbboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_account_move_filter_inherit
+#, python-format
+msgid "Open Invoice"
+msgstr "Open factuur"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Open Inwards"
+msgstr "Naar binnen openen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#, python-format
+msgid "Open Oppoertunity"
+msgstr "Mogelijkheid openen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+#, python-format
+msgid "Open Opportunities"
+msgstr "Open kansen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Open Outward"
+msgstr "Open naar buiten"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Open Purchase Invoice"
+msgstr "Aankoopfactuur openen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Operation Type"
+msgstr "Operatietype:"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Orders"
+msgstr "Bestellingen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+#, python-format
+msgid "Overdue Opportunities"
+msgstr "Achterstallige kansen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#, python-format
+msgid "Overdue Opportunity"
+msgstr "Achterstallige kans"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.menu_point_dashboard
+#, python-format
+msgid "POS Dashboard"
+msgstr "POS-dashboard"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Partners"
+msgstr "Partners"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Payment\n"
+"                                    By Journal"
+msgstr ""
+"Betaling\n"
+"Door journaal"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.tag_dashboard_id
+msgid "Point Of Sale Dashboard"
+msgstr "Verkooppunt-dashboard"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_pos_config
+msgid "Point of Sale Configuration"
+msgstr "Kassa-instellingen"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_pos_order
+msgid "Point of Sale Orders"
+msgstr "Kassaorders"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_pos_session
+msgid "Point of Sale Session"
+msgstr "Kassasessie"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/backend_dashboard_js/dashboard.js:0
+#, python-format
+msgid "Point of sale Dashboard"
+msgstr "Verkooppunt Dashboard"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Price"
+msgstr "Prijs"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Price Wise Products"
+msgstr "Prijs verstandige producten"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model.fields,field_description:modern_dashboard_odoo_axis.field_pos_config__print_audit_report
+msgid "Print Audit Report"
+msgstr "Auditrapport afdrukken"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Product Moves"
+msgstr "Productbewegingen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_sales_order_filter_inherit
+#, python-format
+msgid "Quotation"
+msgstr "Citaat"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_sales_order_filter_inherit
+#, python-format
+msgid "Quotation Cancel"
+msgstr "Offerte annuleren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_sales_order_filter_inherit
+#, python-format
+msgid "Quotation Sent"
+msgstr "Offerte verzonden"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Quotations"
+msgstr "Citaten"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Receivable Amount"
+msgstr "Te ontvangen bedrag"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Recent 5 Sale Order"
+msgstr "Recente 5 verkooporder"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Recent Customer"
+msgstr "Recente klant"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_ir_actions_report
+msgid "Report Action"
+msgstr "Rapport actie"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Sale By\n"
+"                                Salesman"
+msgstr ""
+"Verkoop door\n"
+"Verkoper"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.actions.client,name:modern_dashboard_odoo_axis.sale_dashboard_action
+#: model:ir.ui.menu,name:modern_dashboard_odoo_axis.sale_dashboard_menu
+msgid "Sale Dashboard"
+msgstr "Verkoopdashboard"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Sale Order Cancel"
+msgstr "Verkooporder Annuleren"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: model:ir.model.fields,field_description:modern_dashboard_odoo_axis.field_pos_config__pos_dashboard
+#, python-format
+msgid "Sales Dashboard"
+msgstr "Verkoopdashboard"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_sale_order
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_sales_order_filter_inherit
+msgid "Sales Order"
+msgstr "Verkooporder"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Sales Orders"
+msgstr "Verkooporders"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Sales Report"
+msgstr "Verkoopcijfers"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Selling Products"
+msgstr "Producten verkopen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "September"
+msgstr "september"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Spending"
+msgstr "uitgaven"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Stock Moves"
+msgstr "Aandelenbewegingen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "This Month"
+msgstr "Deze maand"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "This Week"
+msgstr "Deze week"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "This Year"
+msgstr "Dit jaar"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "To Be Invoiced"
+msgstr "Gefactureerd worden"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/sale_dashboard.js:0
+#, python-format
+msgid "To be Invoiced"
+msgstr "Gefactureerd worden"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Today"
+msgstr "Vandaag"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Today Orders"
+msgstr "Vandaag Bestellingen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Today Product Sold"
+msgstr "Vandaag Product Verkocht"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model.fields,field_description:modern_dashboard_odoo_axis.field_pos_config__today_sale_report
+msgid "Today Sale Report"
+msgstr "Verkooprapport vandaag"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Today Sales"
+msgstr "Vandaag verkoop"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Top"
+msgstr "Bovenkant"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Top 10 Customers"
+msgstr "Top 10 klanten"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Top 10 Sold Orders"
+msgstr "Top 10 verkochte bestellingen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Top 3 Customer with Loss count"
+msgstr "Top 3 klant met verliestelling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Top 3 Customer with won count"
+msgstr "Top 3 klant met gewonnen telling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Top 5 Categories by\n"
+"                                Sales"
+msgstr ""
+"Top 5 categorieën op\n"
+"                                Verkoop"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Top Customer"
+msgstr "Topklant"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Top Items by\n"
+"                                Sales"
+msgstr ""
+"Topitems van\n"
+"                                Verkoop"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Top Leads/Opportunity"
+msgstr "Top leads/kans"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Top Recent Customer"
+msgstr "Top recente klant"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Top Reserved Stock"
+msgstr "Top gereserveerde voorraad"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Top Sale Revenue Customer"
+msgstr "Top verkoopopbrengst klant"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Top Sale Team"
+msgstr "Topverkoopteam"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Top Sales Team"
+msgstr "Top verkoopteam"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Top Selling Product"
+msgstr "Bestverkopende product"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Top Staff Today"
+msgstr "Toppersoneel vandaag"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Top Vendor"
+msgstr "Topverkoper"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "Top customers"
+msgstr "Topklanten"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Total Expected Revenue"
+msgstr "Totale verwachte omzet"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Total Leads"
+msgstr "Totaal aantal leads"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Total Lot Serial"
+msgstr "Totale partij serie"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Total Orders"
+msgstr "Totaal aantal bestellingen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Total Products Sold"
+msgstr "Totaal aantal verkochte producten"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Total Reordering Rules"
+msgstr "Totale herschikkingsregels"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Total Sales"
+msgstr "Totale verkoop"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Total Won"
+msgstr "Totaal gewonnen"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model,name:modern_dashboard_odoo_axis.model_stock_picking
+msgid "Transfer"
+msgstr "Verplaatsing"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_account_move_filter_inherit
+msgid "Vendor"
+msgstr "Leverancier"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/account_dashbboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Vendor Payment"
+msgstr "Leveranciersbetaling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#, python-format
+msgid "Vendor Payment List"
+msgstr "Lijst met leveranciersbetalingen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Visity"
+msgstr "VCD"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_picking_internal_search_inherit
+msgid "Waiting"
+msgstr "Aan het wachten"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/inventory_dashboard.js:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#, python-format
+msgid "Waiting Count"
+msgstr "Wachten tellen"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid ""
+"Weekly\n"
+"                                Sales Details"
+msgstr ""
+"Wekelijks\n"
+"Verkoopgegevens"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Weekly Gross Sales"
+msgstr "Wekelijkse bruto-omzet"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "Welcome"
+msgstr "Welkom"
+
+#. module: modern_dashboard_odoo_axis
+#: model_terms:ir.ui.view,arch_db:modern_dashboard_odoo_axis.view_crm_case_opportunities_filter_inherit
+msgid "Won"
+msgstr "Won"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/js/crm_dashboard.js:0
+#, python-format
+msgid "Won Count"
+msgstr "Gewonnen Telling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Won List"
+msgstr "Gewonnen lijst"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#, python-format
+msgid "Won list Customer"
+msgstr "Gewonnen lijst klant"
+
+#. module: modern_dashboard_odoo_axis
+#: model:ir.model.fields,field_description:modern_dashboard_odoo_axis.field_pos_config__x_report
+msgid "X-Report"
+msgstr "X-rapport"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "cool"
+msgstr "koel"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "select"
+msgstr "selecteer"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select Month"
+msgstr "selecteer maand"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select Week"
+msgstr "selecteer Week"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select company"
+msgstr "selecteer bedrijf"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select option"
+msgstr "Selecteer optie"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/backend_dashboard.xml:0
+#, python-format
+msgid "select order"
+msgstr "selecteer bestelling"
+
+#. module: modern_dashboard_odoo_axis
+#. openerp-web
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/account_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/crm_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/inventory_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#: code:addons/modern_dashboard_odoo_axis/static/src/xml/sale_dashboard.xml:0
+#, python-format
+msgid "warm"
+msgstr "warm"
